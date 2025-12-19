@@ -40,7 +40,7 @@
 
 ### *Tổng thời gian chạy thuật toán: 0.0036ms*
 
-## ***KẾT LUẬN: Binary Search nhanh hơn khoảng 27 so với Linear Search***
+## ***KẾT LUẬN: Binary Search nhanh hơn khoảng 27 lần so với Linear Search***
 
 
 
